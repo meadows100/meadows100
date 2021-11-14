@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meadows100
+- 👋 Hi, I am @meadows100
 - 👀 I’m interested in Cyber Security right now!  But also travel and sport.
 - 🌱 I’m currently learning Cyber Security at the University of Essex
 - 💞️ I’m looking to collaborate on modules with other students on the course
